@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/wordquest-116674-8cf755b2/frontend_ui"
+}
